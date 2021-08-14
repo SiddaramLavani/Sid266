@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sid266
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning BE in CSE 
